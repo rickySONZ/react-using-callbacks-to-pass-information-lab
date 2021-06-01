@@ -35,5 +35,17 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "## Objectives",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickySONZ/react-using-callbacks-to-pass-information-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickySONZ/react-using-callbacks-to-pass-information-lab/issues"
+  },
+  "homepage": "https://github.com/rickySONZ/react-using-callbacks-to-pass-information-lab#readme"
 }
